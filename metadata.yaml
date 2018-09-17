@@ -5,6 +5,9 @@ contributor:
     agent_name: Kirsch, W.
     gutenberg_agent_id: '46805'
     url: http://www.gutenberg.org/2009/agents/46805
+covers:
+- cover_type: archival
+  image_path: 52352-h/images/cover.jpg
 creator:
   author:
     agent_name: Löns, Hermann
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25563
     wikipedia: http://en.wikipedia.org/wiki/Hermann_L%C3%B6ns
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52352#Das-Tal-der-Lieder-und-andere-Schilderungen
 gutenberg_issued: '2016-06-16'
 gutenberg_type: Text
 identifiers:
